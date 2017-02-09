@@ -1,44 +1,44 @@
 First Time:
-CPU Run Time: 0.38326 sec
+CPU Run Time: 0.38261 sec
 
-GPU Memory allocation time:: 0.11906 sec
+GPU Memory allocation time:: 0.11324 sec
 
-GPU Memory Copy to Device time:: 0.006869 sec
+GPU Memory Copy to Device time:: 0.007768 sec
 
-GPU Kernal run Time:: 4.2e-05 sec
+GPU Kernal run Time:: 4.6e-05 sec
 
-GPU Memory Copy to Host time:: 0.013676 sec
+GPU Memory Copy to Host time:: 0.012926 sec
 
-Total GPU Run time:: 0.13973 sec
-Result comparison failed.
+Total GPU Run time:: 0.13409 sec
+Result comparison passed.
 
 
 Second Time:
-CPU Run Time: 0.38232 sec
+CPU Run Time: 0.38201 sec
 
-GPU Memory allocation time:: 0.116 sec
+GPU Memory allocation time:: 0.12085 sec
 
-GPU Memory Copy to Device time:: 0.007256 sec
+GPU Memory Copy to Device time:: 0.00689 sec
 
-GPU Kernal run Time:: 4.5e-05 sec
+GPU Kernal run Time:: 4.3e-05 sec
 
-GPU Memory Copy to Host time:: 0.013534 sec
+GPU Memory Copy to Host time:: 0.013877 sec
 
-Total GPU Run time:: 0.13695 sec
-Result comparison failed.
+Total GPU Run time:: 0.14177 sec
+Result comparison passed.
 
 
 Third Time:
-CPU Run Time: 0.3817 sec
+CPU Run Time: 0.38169 sec
 
-GPU Memory allocation time:: 0.11287 sec
+GPU Memory allocation time:: 0.11499 sec
 
-GPU Memory Copy to Device time:: 0.007073 sec
+GPU Memory Copy to Device time:: 0.00708 sec
 
-GPU Kernal run Time:: 4.2e-05 sec
+GPU Kernal run Time:: 4.5e-05 sec
 
-GPU Memory Copy to Host time:: 0.013103 sec
+GPU Memory Copy to Host time:: 0.013383 sec
 
-Total GPU Run time:: 0.13319 sec
-Result comparison failed.
+Total GPU Run time:: 0.13561 sec
+Result comparison passed.
 
