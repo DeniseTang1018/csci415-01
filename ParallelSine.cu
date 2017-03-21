@@ -142,7 +142,7 @@ int main (int argc, char **argv)
 
   //transfer the array to the GPU
   long long Memory_copy_to_device_start_time = start_timer();
-  cudaMemcpy(d_input, h_input, N*sizeof(float),cudaMemcpyHostToDevice);;
+  cudaMemcpy(d_input, h_input, N*sizeof(float),cudaMemcpyHostToDevice);
   long long Memory_copy_to_device_end_time = stop_timer(Memory_copy_to_device_start_time,"\nGPU Memory Copy to Device time:");
  
   //launch the kernel
